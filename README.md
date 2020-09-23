@@ -1,7 +1,7 @@
 # ASLR on the line - fancut
 
 Erik Bosman (@brainsmoke) gave [a talk at the ccc](https://www.youtube.com/watch?v=ewe3-mUku94).
-And got some rude comments on youtube about the way he presented. So I spend some time to cut out the "uhms" and some long pauses.
+And got some rude comments on youtube about the way he presented. So I spent some time to cut out the "uhms" and some long pauses.
 To make the talk easier to follow and direct the attention from the way of presenting to the content of the presentation.
 
 
@@ -13,6 +13,7 @@ adduser chiller
 su chiller
 cd ~/Videos
 git clone https://github.com/chillermovies/fancut_ASLR_on_the_line
+cd fancut_ASLR_on_the_line
 
 mkdir -p mov
 cd mov
