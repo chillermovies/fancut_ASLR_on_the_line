@@ -22,3 +22,14 @@ cd ..
 kdenlive aslr.kdenlive
 ```
 
+### versions
+
+**Kdenlive**
+- Version 20.08.1
+- MLT version 6.23.0
+- FFmpeg version 4.4.r99335.gdfbea7b210-1
+
+**Libraries**
+- KDE Frameworks 5.74.0
+- Qt 5.15.1 (built against 5.15.1)
+- The xcb windowing system
