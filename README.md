@@ -22,7 +22,10 @@ cd ..
 kdenlive aslr.kdenlive
 ```
 
-### versions
+### versions and compability
+
+This project was mainly cutted on arch linux and a bit on manjaro.
+I could not manage to get the project loading on debian 10 probably due to version missmatching.
 
 **Kdenlive**
 - Version 20.08.1
