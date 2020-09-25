@@ -4,8 +4,9 @@ Erik Bosman (@brainsmoke) gave [a talk at the ccc](https://www.youtube.com/watch
 And got some rude comments on youtube about the way he presented. So I spent some time to cut out the "uhms" and some long pauses.
 To make the talk easier to follow and direct the attention from the way of presenting to the content of the presentation.
 
+### final render
 
-It is still a work in progress but if its finish I will upload it to youtube and share a link here.
+https://www.youtube.com/watch?v=8VFmfATBKpA
 
 ### setup
 ```
